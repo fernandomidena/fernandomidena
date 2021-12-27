@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Fernando Midena!
 
 - 🔭 Estou em busca da primeira oportunidade na área de Desenvolvimento Web
-- 🌱 Estudando HTML5 | CSS3 | JavaScript
+- 💻 Estudando HTML5 | CSS3 | JavaScript
 
 <div align="center">
   <a href="https://github.com/fernandomidena">
