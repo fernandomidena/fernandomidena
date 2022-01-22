@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fernando Midena!
 
-- 🔭 Estou em busca da primeira oportunidade na área de Desenvolvimento Web
+- 🔭 Analista de Suporte Técnico na TOTVS
 - 💻 Estudando HTML5 | CSS3 | JavaScript
 
 <div align="center">
