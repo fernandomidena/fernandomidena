@@ -23,7 +23,6 @@
    <a href="https://discord.gg/EBbu8Fwk" target="_blank"><img height="32" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href = "mailto:fernandohenriquemidena@gmail.com"><img height="32" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/fernandomidena" target="_blank"><img height="32" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://wa.me/+5518997392798" target="_blank"><img height="32" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
  ![Snake animation](https://github.com/fernandomidena/fernandomidena/blob/output/github-contribution-grid-snake.svg)
   
